@@ -1,7 +1,7 @@
 # datafun-03-analytics
-# Task 1: Start a New Project (Recommended Workflow)
+# Start a New Project 
 
-Use the recommended workflow for starting a new project — it's reliable and most likely to work with the fewest issues. Follow these steps to get familiar with the workflow to begin a real-world project in GitHub. Then, work through the detailed instructions and commands provided in the Module 8 page named _Workflow: Start a New Project_.
+Use the recommended workflow for starting a new project — it's reliable and most likely to work with the fewest issues.
 
 ### Steps:
 
