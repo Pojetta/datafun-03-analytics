@@ -9,7 +9,6 @@ In Terminal, create a project virtual environment in the .venv folder.
 python3 -m venv .venv
 source .venv/bin/activate
 python3 -m pip install -r requirements.txt
-
 ```
 
 ## Git add and commit 
